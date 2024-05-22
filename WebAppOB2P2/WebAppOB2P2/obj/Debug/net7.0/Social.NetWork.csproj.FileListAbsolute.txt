@@ -1,0 +1,204 @@
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\bin\Debug\net7.0\appsettings.Development.json
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\bin\Debug\net7.0\appsettings.json
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.staticwebassets.runtime.json
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.exe
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.deps.json
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.runtimeconfig.json
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.dll
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.pdb
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\bin\Debug\net7.0\Dominio.dll
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\bin\Debug\net7.0\Dominio.pdb
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.csproj.AssemblyReference.cache
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.AssemblyInfoInputs.cache
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.AssemblyInfo.cs
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.csproj.CoreCompileInputs.cache
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.MvcApplicationPartsAssemblyInfo.cache
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.RazorAssemblyInfo.cache
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.RazorAssemblyInfo.cs
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.Social.NetWork.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.build.Social.NetWork.props
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Social.NetWork.props
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Social.NetWork.props
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\staticwebassets.build.json
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\staticwebassets.development.json
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\scopedcss\bundle\Social.NetWork.styles.css
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\scopedcss\projectbundle\Social.NetWork.bundle.scp.css
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.csproj.CopyComplete
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.dll
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\refint\Social.NetWork.dll
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.pdb
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.genruntimeconfig.cache
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\ref\Social.NetWork.dll
+C:\Users\lpadua\Downloads\WebAppOB2P2_-_copia\WebAppOB2P2 - copia\WebAppOB2P2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\lpadua\Downloads\WebAppOB2P2_-_copia\WebAppOB2P2 - copia\WebAppOB2P2\bin\Debug\net7.0\appsettings.json
+C:\Users\lpadua\Downloads\WebAppOB2P2_-_copia\WebAppOB2P2 - copia\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.staticwebassets.runtime.json
+C:\Users\lpadua\Downloads\WebAppOB2P2_-_copia\WebAppOB2P2 - copia\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.exe
+C:\Users\lpadua\Downloads\WebAppOB2P2_-_copia\WebAppOB2P2 - copia\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.deps.json
+C:\Users\lpadua\Downloads\WebAppOB2P2_-_copia\WebAppOB2P2 - copia\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.runtimeconfig.json
+C:\Users\lpadua\Downloads\WebAppOB2P2_-_copia\WebAppOB2P2 - copia\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.dll
+C:\Users\lpadua\Downloads\WebAppOB2P2_-_copia\WebAppOB2P2 - copia\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.pdb
+C:\Users\lpadua\Downloads\WebAppOB2P2_-_copia\WebAppOB2P2 - copia\WebAppOB2P2\bin\Debug\net7.0\Dominio.dll
+C:\Users\lpadua\Downloads\WebAppOB2P2_-_copia\WebAppOB2P2 - copia\WebAppOB2P2\bin\Debug\net7.0\Dominio.pdb
+C:\Users\lpadua\Downloads\WebAppOB2P2_-_copia\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.csproj.AssemblyReference.cache
+C:\Users\lpadua\Downloads\WebAppOB2P2_-_copia\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lpadua\Downloads\WebAppOB2P2_-_copia\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.AssemblyInfoInputs.cache
+C:\Users\lpadua\Downloads\WebAppOB2P2_-_copia\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.AssemblyInfo.cs
+C:\Users\lpadua\Downloads\WebAppOB2P2_-_copia\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.csproj.CoreCompileInputs.cache
+C:\Users\lpadua\Downloads\WebAppOB2P2_-_copia\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lpadua\Downloads\WebAppOB2P2_-_copia\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.RazorAssemblyInfo.cache
+C:\Users\lpadua\Downloads\WebAppOB2P2_-_copia\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.RazorAssemblyInfo.cs
+C:\Users\lpadua\Downloads\WebAppOB2P2_-_copia\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\lpadua\Downloads\WebAppOB2P2_-_copia\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\lpadua\Downloads\WebAppOB2P2_-_copia\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.Social.NetWork.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lpadua\Downloads\WebAppOB2P2_-_copia\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.build.Social.NetWork.props
+C:\Users\lpadua\Downloads\WebAppOB2P2_-_copia\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Social.NetWork.props
+C:\Users\lpadua\Downloads\WebAppOB2P2_-_copia\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Social.NetWork.props
+C:\Users\lpadua\Downloads\WebAppOB2P2_-_copia\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\lpadua\Downloads\WebAppOB2P2_-_copia\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\lpadua\Downloads\WebAppOB2P2_-_copia\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\scopedcss\bundle\Social.NetWork.styles.css
+C:\Users\lpadua\Downloads\WebAppOB2P2_-_copia\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\scopedcss\projectbundle\Social.NetWork.bundle.scp.css
+C:\Users\lpadua\Downloads\WebAppOB2P2_-_copia\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.csproj.CopyComplete
+C:\Users\lpadua\Downloads\WebAppOB2P2_-_copia\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.dll
+C:\Users\lpadua\Downloads\WebAppOB2P2_-_copia\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\refint\Social.NetWork.dll
+C:\Users\lpadua\Downloads\WebAppOB2P2_-_copia\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.pdb
+C:\Users\lpadua\Downloads\WebAppOB2P2_-_copia\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.genruntimeconfig.cache
+C:\Users\lpadua\Downloads\WebAppOB2P2_-_copia\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\ref\Social.NetWork.dll
+C:\Users\PCManuYEze\Desktop\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\PCManuYEze\Desktop\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\bin\Debug\net7.0\appsettings.json
+C:\Users\PCManuYEze\Desktop\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.staticwebassets.runtime.json
+C:\Users\PCManuYEze\Desktop\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.exe
+C:\Users\PCManuYEze\Desktop\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.deps.json
+C:\Users\PCManuYEze\Desktop\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.runtimeconfig.json
+C:\Users\PCManuYEze\Desktop\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.dll
+C:\Users\PCManuYEze\Desktop\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.pdb
+C:\Users\PCManuYEze\Desktop\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\bin\Debug\net7.0\Dominio.dll
+C:\Users\PCManuYEze\Desktop\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\bin\Debug\net7.0\Dominio.pdb
+C:\Users\PCManuYEze\Desktop\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.csproj.AssemblyReference.cache
+C:\Users\PCManuYEze\Desktop\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PCManuYEze\Desktop\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.AssemblyInfoInputs.cache
+C:\Users\PCManuYEze\Desktop\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.AssemblyInfo.cs
+C:\Users\PCManuYEze\Desktop\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.csproj.CoreCompileInputs.cache
+C:\Users\PCManuYEze\Desktop\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PCManuYEze\Desktop\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.RazorAssemblyInfo.cache
+C:\Users\PCManuYEze\Desktop\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.RazorAssemblyInfo.cs
+C:\Users\PCManuYEze\Desktop\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.Social.NetWork.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PCManuYEze\Desktop\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.build.Social.NetWork.props
+C:\Users\PCManuYEze\Desktop\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Social.NetWork.props
+C:\Users\PCManuYEze\Desktop\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Social.NetWork.props
+C:\Users\PCManuYEze\Desktop\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\PCManuYEze\Desktop\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\PCManuYEze\Desktop\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\PCManuYEze\Desktop\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\PCManuYEze\Desktop\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\scopedcss\bundle\Social.NetWork.styles.css
+C:\Users\PCManuYEze\Desktop\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\scopedcss\projectbundle\Social.NetWork.bundle.scp.css
+C:\Users\PCManuYEze\Desktop\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.csproj.CopyComplete
+C:\Users\PCManuYEze\Desktop\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.dll
+C:\Users\PCManuYEze\Desktop\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\refint\Social.NetWork.dll
+C:\Users\PCManuYEze\Desktop\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.pdb
+C:\Users\PCManuYEze\Desktop\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.genruntimeconfig.cache
+C:\Users\PCManuYEze\Desktop\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\ref\Social.NetWork.dll
+C:\Users\lpadua\Downloads\Obligatorio2_P2_INVITACIONES_CASI_LISTO\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\lpadua\Downloads\Obligatorio2_P2_INVITACIONES_CASI_LISTO\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\bin\Debug\net7.0\appsettings.json
+C:\Users\lpadua\Downloads\Obligatorio2_P2_INVITACIONES_CASI_LISTO\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.staticwebassets.runtime.json
+C:\Users\lpadua\Downloads\Obligatorio2_P2_INVITACIONES_CASI_LISTO\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.exe
+C:\Users\lpadua\Downloads\Obligatorio2_P2_INVITACIONES_CASI_LISTO\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.deps.json
+C:\Users\lpadua\Downloads\Obligatorio2_P2_INVITACIONES_CASI_LISTO\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.runtimeconfig.json
+C:\Users\lpadua\Downloads\Obligatorio2_P2_INVITACIONES_CASI_LISTO\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.dll
+C:\Users\lpadua\Downloads\Obligatorio2_P2_INVITACIONES_CASI_LISTO\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.pdb
+C:\Users\lpadua\Downloads\Obligatorio2_P2_INVITACIONES_CASI_LISTO\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\bin\Debug\net7.0\Dominio.dll
+C:\Users\lpadua\Downloads\Obligatorio2_P2_INVITACIONES_CASI_LISTO\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\bin\Debug\net7.0\Dominio.pdb
+C:\Users\lpadua\Downloads\Obligatorio2_P2_INVITACIONES_CASI_LISTO\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.csproj.AssemblyReference.cache
+C:\Users\lpadua\Downloads\Obligatorio2_P2_INVITACIONES_CASI_LISTO\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lpadua\Downloads\Obligatorio2_P2_INVITACIONES_CASI_LISTO\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.AssemblyInfoInputs.cache
+C:\Users\lpadua\Downloads\Obligatorio2_P2_INVITACIONES_CASI_LISTO\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.AssemblyInfo.cs
+C:\Users\lpadua\Downloads\Obligatorio2_P2_INVITACIONES_CASI_LISTO\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.csproj.CoreCompileInputs.cache
+C:\Users\lpadua\Downloads\Obligatorio2_P2_INVITACIONES_CASI_LISTO\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lpadua\Downloads\Obligatorio2_P2_INVITACIONES_CASI_LISTO\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.RazorAssemblyInfo.cache
+C:\Users\lpadua\Downloads\Obligatorio2_P2_INVITACIONES_CASI_LISTO\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.RazorAssemblyInfo.cs
+C:\Users\lpadua\Downloads\Obligatorio2_P2_INVITACIONES_CASI_LISTO\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\lpadua\Downloads\Obligatorio2_P2_INVITACIONES_CASI_LISTO\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\lpadua\Downloads\Obligatorio2_P2_INVITACIONES_CASI_LISTO\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.Social.NetWork.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lpadua\Downloads\Obligatorio2_P2_INVITACIONES_CASI_LISTO\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.build.Social.NetWork.props
+C:\Users\lpadua\Downloads\Obligatorio2_P2_INVITACIONES_CASI_LISTO\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Social.NetWork.props
+C:\Users\lpadua\Downloads\Obligatorio2_P2_INVITACIONES_CASI_LISTO\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Social.NetWork.props
+C:\Users\lpadua\Downloads\Obligatorio2_P2_INVITACIONES_CASI_LISTO\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\lpadua\Downloads\Obligatorio2_P2_INVITACIONES_CASI_LISTO\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\lpadua\Downloads\Obligatorio2_P2_INVITACIONES_CASI_LISTO\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\scopedcss\bundle\Social.NetWork.styles.css
+C:\Users\lpadua\Downloads\Obligatorio2_P2_INVITACIONES_CASI_LISTO\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\scopedcss\projectbundle\Social.NetWork.bundle.scp.css
+C:\Users\lpadua\Downloads\Obligatorio2_P2_INVITACIONES_CASI_LISTO\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.csproj.CopyComplete
+C:\Users\lpadua\Downloads\Obligatorio2_P2_INVITACIONES_CASI_LISTO\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.dll
+C:\Users\lpadua\Downloads\Obligatorio2_P2_INVITACIONES_CASI_LISTO\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\refint\Social.NetWork.dll
+C:\Users\lpadua\Downloads\Obligatorio2_P2_INVITACIONES_CASI_LISTO\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.pdb
+C:\Users\lpadua\Downloads\Obligatorio2_P2_INVITACIONES_CASI_LISTO\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.genruntimeconfig.cache
+C:\Users\lpadua\Downloads\Obligatorio2_P2_INVITACIONES_CASI_LISTO\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\WebAppOB2P2\obj\Debug\net7.0\ref\Social.NetWork.dll
+C:\Users\lucas\Downloads\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\lucas\Downloads\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\bin\Debug\net7.0\appsettings.json
+C:\Users\lucas\Downloads\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.staticwebassets.runtime.json
+C:\Users\lucas\Downloads\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.exe
+C:\Users\lucas\Downloads\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.deps.json
+C:\Users\lucas\Downloads\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.runtimeconfig.json
+C:\Users\lucas\Downloads\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.dll
+C:\Users\lucas\Downloads\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.pdb
+C:\Users\lucas\Downloads\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\bin\Debug\net7.0\Dominio.dll
+C:\Users\lucas\Downloads\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\bin\Debug\net7.0\Dominio.pdb
+C:\Users\lucas\Downloads\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.csproj.AssemblyReference.cache
+C:\Users\lucas\Downloads\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Downloads\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.AssemblyInfoInputs.cache
+C:\Users\lucas\Downloads\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.AssemblyInfo.cs
+C:\Users\lucas\Downloads\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lucas\Downloads\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.RazorAssemblyInfo.cache
+C:\Users\lucas\Downloads\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.RazorAssemblyInfo.cs
+C:\Users\lucas\Downloads\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.Social.NetWork.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lucas\Downloads\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.build.Social.NetWork.props
+C:\Users\lucas\Downloads\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Social.NetWork.props
+C:\Users\lucas\Downloads\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Social.NetWork.props
+C:\Users\lucas\Downloads\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\lucas\Downloads\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\lucas\Downloads\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\lucas\Downloads\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\lucas\Downloads\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\scopedcss\bundle\Social.NetWork.styles.css
+C:\Users\lucas\Downloads\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\scopedcss\projectbundle\Social.NetWork.bundle.scp.css
+C:\Users\lucas\Downloads\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.csproj.CopyComplete
+C:\Users\lucas\Downloads\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.dll
+C:\Users\lucas\Downloads\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\refint\Social.NetWork.dll
+C:\Users\lucas\Downloads\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.pdb
+C:\Users\lucas\Downloads\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.genruntimeconfig.cache
+C:\Users\lucas\Downloads\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\ref\Social.NetWork.dll
+C:\Users\lucas\Downloads\E-159682-0\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\lucas\Downloads\E-159682-0\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\bin\Debug\net7.0\appsettings.json
+C:\Users\lucas\Downloads\E-159682-0\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.staticwebassets.runtime.json
+C:\Users\lucas\Downloads\E-159682-0\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.exe
+C:\Users\lucas\Downloads\E-159682-0\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.deps.json
+C:\Users\lucas\Downloads\E-159682-0\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.runtimeconfig.json
+C:\Users\lucas\Downloads\E-159682-0\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.dll
+C:\Users\lucas\Downloads\E-159682-0\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.pdb
+C:\Users\lucas\Downloads\E-159682-0\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\bin\Debug\net7.0\Dominio.dll
+C:\Users\lucas\Downloads\E-159682-0\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\bin\Debug\net7.0\Dominio.pdb
+C:\Users\lucas\Downloads\E-159682-0\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.csproj.AssemblyReference.cache
+C:\Users\lucas\Downloads\E-159682-0\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Downloads\E-159682-0\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.AssemblyInfoInputs.cache
+C:\Users\lucas\Downloads\E-159682-0\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.AssemblyInfo.cs
+C:\Users\lucas\Downloads\E-159682-0\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\E-159682-0\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lucas\Downloads\E-159682-0\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.RazorAssemblyInfo.cache
+C:\Users\lucas\Downloads\E-159682-0\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.RazorAssemblyInfo.cs
+C:\Users\lucas\Downloads\E-159682-0\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.Social.NetWork.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lucas\Downloads\E-159682-0\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.build.Social.NetWork.props
+C:\Users\lucas\Downloads\E-159682-0\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Social.NetWork.props
+C:\Users\lucas\Downloads\E-159682-0\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Social.NetWork.props
+C:\Users\lucas\Downloads\E-159682-0\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\lucas\Downloads\E-159682-0\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\lucas\Downloads\E-159682-0\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\lucas\Downloads\E-159682-0\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\lucas\Downloads\E-159682-0\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\scopedcss\bundle\Social.NetWork.styles.css
+C:\Users\lucas\Downloads\E-159682-0\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\scopedcss\projectbundle\Social.NetWork.bundle.scp.css
+C:\Users\lucas\Downloads\E-159682-0\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.csproj.CopyComplete
+C:\Users\lucas\Downloads\E-159682-0\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.dll
+C:\Users\lucas\Downloads\E-159682-0\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\refint\Social.NetWork.dll
+C:\Users\lucas\Downloads\E-159682-0\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.pdb
+C:\Users\lucas\Downloads\E-159682-0\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\Social.NetWork.genruntimeconfig.cache
+C:\Users\lucas\Downloads\E-159682-0\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\ref\Social.NetWork.dll

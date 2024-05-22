@@ -1,0 +1,14 @@
+﻿@using Social.NetWork.Dominio;
+@model Invitacion;
+@if (!String.IsNullOrEmpty(ViewBag.Mensaje))
+{
+    <div class="alert alert-danger">
+        @ViewBag.Mensaje
+    </div>
+}
+<h1>Deseas enviar una solicitud de amistad?</h1>
+<form method="post">
+    <input type="hidden" value="@Context.Session.GetString("usuarioLogueado")" id="solicitante" name="solicitante">
+    <input type="hidden" value="@ViewBag.usuarioSolicitado" id="solicitado" name="solicitado">
+    <input type="submit" value="Enviar">
+</form>

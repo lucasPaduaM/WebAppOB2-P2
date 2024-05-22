@@ -1,0 +1,35 @@
+﻿@using Social.NetWork.Dominio;
+@model IEnumerable<Usuario>;
+@if (!String.IsNullOrEmpty(ViewBag.Mensaje))
+{
+    <div class="alert alert-danger">
+        @ViewBag.Mensaje
+    </div>
+}
+
+<h1>Sesión Actual: @Context.Session.GetString("usuarioLogueado")</h1>
+<table class="table">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col">Usuarios</th>
+        </tr>
+    </thead>
+    @foreach (Usuario usuario in Sistema.Instancia.GetUsuarios())
+    {
+        if (!usuario.GetType().ToString().Contains("Administrador"))
+        {
+            string usuarioEmail = usuario.GetEmail();
+            <tr>
+                <td>@usuarioEmail</td>
+                <td>
+                    <form action="~/AccionesAdmin/BanearUsuario" method="post">
+                        <div class="form-group" style="text-align: center;">
+                            <input type="submit" value="Banear">
+                            <input type="hidden" value="@usuario.GetEmail()" name="emailUsuario" />
+                        </div>
+                    </form>
+                </td>
+            </tr>
+        }
+    }
+</table>

@@ -1,0 +1,43 @@
+﻿@using Social.NetWork.Dominio;
+@model Usuario;
+
+
+<table class="table">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col">Miembros:</th>
+        </tr>
+    </thead>
+
+    @foreach (Usuario usuario in Sistema.Instancia.GetUsuarios())
+    {
+        try
+        {
+            string emailUsuario = usuario.GetEmail();
+            Miembro miembroTemp = (Miembro)usuario;
+            Miembro usuarioLogueado = Sistema.Instancia.GetUsuario(Context.Session.GetString("usuarioLogueado"));
+            if ((Context.Session.GetString("usuarioLogueado") != emailUsuario))
+            {
+                if (!Sistema.Instancia.UsuarioYaSolicito(miembroTemp, usuarioLogueado))
+                {
+                    if (!miembroTemp.EsAmigoDe(usuarioLogueado))
+                    {
+                        <tr>
+                            <td>@emailUsuario</td>
+                            <td>
+                                <a href="../Invitaciones/CrearInvitacion?usuarioSolicitado=@emailUsuario">
+                                    <input type="button" value="Enviar">
+                                </a>
+                            </td>
+                        </tr>
+                    }
+
+                }
+            }
+        }
+        catch (Exception)
+        {
+
+        }
+    }
+</table>

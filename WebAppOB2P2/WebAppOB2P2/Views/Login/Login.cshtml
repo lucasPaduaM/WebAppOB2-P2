@@ -1,0 +1,24 @@
+﻿@if (!String.IsNullOrEmpty(ViewBag.Mensaje))
+{
+    <div class="alert alert-danger">
+        @ViewBag.Mensaje
+    </div>
+}
+
+
+
+<h1>Login</h1>
+<form method="post">
+    <div class="form-group">
+        <label for="Email">Correo Electronico</label>
+        <input type="email" class="form-control" id="email" name="Email" placeholder="Ingrese email">
+    </div>
+    <div class="form-group">
+        <label for="Password">Clave</label>
+        <input type="password" name="Password" class="form-control" id="password" placeholder="Contrasenia">
+    </div>
+    <br />
+    <input type="submit" value="Login"/>
+</form>
+
+<p>No tienes cuenta? <a href="../Registro/Registro">Registrate!</a></p>

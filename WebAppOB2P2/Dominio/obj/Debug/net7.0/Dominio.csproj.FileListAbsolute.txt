@@ -1,0 +1,66 @@
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\Dominio\obj\Debug\net7.0\ref\Dominio.dll
+C:\Users\lpadua\Downloads\WebAppOB2P2_-_copia\WebAppOB2P2 - copia\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Users\lpadua\Downloads\WebAppOB2P2_-_copia\WebAppOB2P2 - copia\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Users\lpadua\Downloads\WebAppOB2P2_-_copia\WebAppOB2P2 - copia\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\lpadua\Downloads\WebAppOB2P2_-_copia\WebAppOB2P2 - copia\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lpadua\Downloads\WebAppOB2P2_-_copia\WebAppOB2P2 - copia\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\lpadua\Downloads\WebAppOB2P2_-_copia\WebAppOB2P2 - copia\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\lpadua\Downloads\WebAppOB2P2_-_copia\WebAppOB2P2 - copia\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\lpadua\Downloads\WebAppOB2P2_-_copia\WebAppOB2P2 - copia\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Users\lpadua\Downloads\WebAppOB2P2_-_copia\WebAppOB2P2 - copia\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Users\lpadua\Downloads\WebAppOB2P2_-_copia\WebAppOB2P2 - copia\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Users\lpadua\Downloads\WebAppOB2P2_-_copia\WebAppOB2P2 - copia\Dominio\obj\Debug\net7.0\ref\Dominio.dll
+C:\Users\PCManuYEze\Desktop\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Users\PCManuYEze\Desktop\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Users\PCManuYEze\Desktop\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\PCManuYEze\Desktop\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PCManuYEze\Desktop\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\PCManuYEze\Desktop\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\PCManuYEze\Desktop\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\PCManuYEze\Desktop\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Users\PCManuYEze\Desktop\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Users\PCManuYEze\Desktop\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Users\PCManuYEze\Desktop\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\Dominio\obj\Debug\net7.0\ref\Dominio.dll
+C:\Users\lpadua\Downloads\Obligatorio2_P2_INVITACIONES_CASI_LISTO\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Users\lpadua\Downloads\Obligatorio2_P2_INVITACIONES_CASI_LISTO\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Users\lpadua\Downloads\Obligatorio2_P2_INVITACIONES_CASI_LISTO\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\lpadua\Downloads\Obligatorio2_P2_INVITACIONES_CASI_LISTO\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lpadua\Downloads\Obligatorio2_P2_INVITACIONES_CASI_LISTO\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\lpadua\Downloads\Obligatorio2_P2_INVITACIONES_CASI_LISTO\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\lpadua\Downloads\Obligatorio2_P2_INVITACIONES_CASI_LISTO\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\lpadua\Downloads\Obligatorio2_P2_INVITACIONES_CASI_LISTO\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Users\lpadua\Downloads\Obligatorio2_P2_INVITACIONES_CASI_LISTO\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Users\lpadua\Downloads\Obligatorio2_P2_INVITACIONES_CASI_LISTO\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Users\lpadua\Downloads\Obligatorio2_P2_INVITACIONES_CASI_LISTO\Obligatorio2_P2 21-11-23\WebAppOB2P2 - copia\Dominio\obj\Debug\net7.0\ref\Dominio.dll
+C:\Users\lucas\Downloads\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Users\lucas\Downloads\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Users\lucas\Downloads\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\lucas\Downloads\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Downloads\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\lucas\Downloads\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\lucas\Downloads\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Users\lucas\Downloads\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Users\lucas\Downloads\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Users\lucas\Downloads\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\Dominio\obj\Debug\net7.0\ref\Dominio.dll
+C:\Users\lucas\Downloads\E-159682-0\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Users\lucas\Downloads\E-159682-0\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Users\lucas\Downloads\E-159682-0\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\lucas\Downloads\E-159682-0\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Downloads\E-159682-0\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\lucas\Downloads\E-159682-0\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\lucas\Downloads\E-159682-0\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\E-159682-0\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Users\lucas\Downloads\E-159682-0\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Users\lucas\Downloads\E-159682-0\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Users\lucas\Downloads\E-159682-0\pre-entrega-ob2p2\pre-entrega-ob2p2\Codigo\WebAppOB2P2\Dominio\obj\Debug\net7.0\ref\Dominio.dll

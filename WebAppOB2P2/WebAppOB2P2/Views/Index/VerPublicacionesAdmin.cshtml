@@ -1,0 +1,77 @@
+﻿@using Social.NetWork.Dominio;
+@model Comentario;
+
+<h1 id="h1Publicaciones">Publicaciones: </h1>
+
+@foreach (Post unPost in Sistema.Instancia.GetPosts())
+{
+    int idPost = unPost.id;
+    string imagen = unPost.imagen;
+    string autor = unPost.autor.nombre;
+    string contenido = unPost.GetContenido();
+    string titulo = unPost.GetTitulo();
+    string fechaPublicacion = unPost.fecha.ToString("yyyy-MM-dd HH:mm:ss");
+
+    <div class="card mb-4" style="max-width: 500px; height: auto;">
+        <img class="img-thumbnail card-img-top" src="~/imagenes/fotos/@unPost.imagen" style="max-width: 500px; height: auto; text-align: center;" />
+        <div class="card-body">
+            <h5 class="card-text">@unPost.estadoAdmin</h5>
+            <h5 class="card-title" style="text-align: center;">@titulo</h5>
+            <p class="card-text">@contenido</p>
+            <p class="card-text"><small class="text-muted">@fechaPublicacion</small></p>
+        </div>
+        <div class="card-body divScroll">
+            @foreach (Comentario comentario in unPost.GetComentarios())
+            {
+                string autorComentario = comentario.autor.nombre;
+                string tituloComentario = comentario.GetTitulo();
+                string contenidoComentario = comentario.GetContenido();
+                string fechaComentario = comentario.fecha.ToString("yyyy-MM-dd HH:mm:ss");
+
+                <br>
+                <h5 class="card-text">Usuario: @autorComentario</h5>
+                <h5 class="card-text">Titulo: @tituloComentario</h5>
+                <p class="card-text"><small class="text-muted">Fecha: @fechaComentario</small></p>
+                <p class="card-text">Comentario: @contenidoComentario</p>
+                <hr>
+                <h4>Estado comentario: @comentario.estadoAdmin</h4>
+                <form action="~/AccionesAdmin/BanearComentario" method="post">
+                    <div class="form-group" style="text-align: center;">
+                        <input type="submit" value="Banear">
+                        <input type="hidden" value="@comentario.id" name="idComentario" />
+                    </div>
+                </form>
+            }
+        </div>
+        <div class="d-flex justify-content-center">
+            <div class="like">
+                <form action="~/Reacciones/MeGusta" method="post">
+                    <input type="hidden" value="@idPost" name="idPost" />
+                    <label>@unPost.likes</label>
+                    <button id="like" style="background-color: lightgreen" disabled>
+                        <span class="material-symbols-outlined">
+                            thumb_up
+                        </span>
+                    </button>
+                </form>
+            </div>
+            <div class="dislike">
+                <form action="~/Reacciones/NoMeGusta" method="post">
+                    <input type="hidden" value="@idPost" name="idPost" />
+                    <label>@unPost.dislikes</label>
+                    <button id="dislike" style="background-color: lightcoral" disabled>
+                        <span class="material-symbols-outlined">
+                            thumb_down
+                        </span>
+                    </button>
+                </form>
+            </div>
+        </div>
+        <form action="~/AccionesAdmin/BanearPost" method="post">
+            <div class="form-group" style="text-align: center;">
+                <input type="submit" value="Banear">
+                <input type="hidden" value="@idPost" name="idPost" />
+            </div>
+        </form>
+    </div>
+}

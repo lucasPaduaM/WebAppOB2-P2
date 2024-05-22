@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Social.NetWork", "WebAppOB2P2\Social.NetWork.csproj", "{C2A0CC00-4D4F-4C8F-BAB4-B09C845F26C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{077F47B2-55D8-471D-90A6-C58D8EAC6A6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2A0CC00-4D4F-4C8F-BAB4-B09C845F26C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2A0CC00-4D4F-4C8F-BAB4-B09C845F26C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2A0CC00-4D4F-4C8F-BAB4-B09C845F26C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2A0CC00-4D4F-4C8F-BAB4-B09C845F26C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{077F47B2-55D8-471D-90A6-C58D8EAC6A6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{077F47B2-55D8-471D-90A6-C58D8EAC6A6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{077F47B2-55D8-471D-90A6-C58D8EAC6A6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{077F47B2-55D8-471D-90A6-C58D8EAC6A6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C657172A-373F-46BF-B164-1802DF05A610}
+	EndGlobalSection
+EndGlobal

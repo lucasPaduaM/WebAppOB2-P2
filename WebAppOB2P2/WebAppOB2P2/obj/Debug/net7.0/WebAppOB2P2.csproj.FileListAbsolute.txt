@@ -1,0 +1,286 @@
+C:\Users\PCManuYEze\Documents\Obligatorio2Prog2\WebAppOB2P2\WebAppOB2P2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\PCManuYEze\Documents\Obligatorio2Prog2\WebAppOB2P2\WebAppOB2P2\bin\Debug\net7.0\appsettings.json
+C:\Users\PCManuYEze\Documents\Obligatorio2Prog2\WebAppOB2P2\WebAppOB2P2\bin\Debug\net7.0\WebAppOB2P2.staticwebassets.runtime.json
+C:\Users\PCManuYEze\Documents\Obligatorio2Prog2\WebAppOB2P2\WebAppOB2P2\bin\Debug\net7.0\WebAppOB2P2.exe
+C:\Users\PCManuYEze\Documents\Obligatorio2Prog2\WebAppOB2P2\WebAppOB2P2\bin\Debug\net7.0\WebAppOB2P2.deps.json
+C:\Users\PCManuYEze\Documents\Obligatorio2Prog2\WebAppOB2P2\WebAppOB2P2\bin\Debug\net7.0\WebAppOB2P2.runtimeconfig.json
+C:\Users\PCManuYEze\Documents\Obligatorio2Prog2\WebAppOB2P2\WebAppOB2P2\bin\Debug\net7.0\WebAppOB2P2.dll
+C:\Users\PCManuYEze\Documents\Obligatorio2Prog2\WebAppOB2P2\WebAppOB2P2\bin\Debug\net7.0\WebAppOB2P2.pdb
+C:\Users\PCManuYEze\Documents\Obligatorio2Prog2\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PCManuYEze\Documents\Obligatorio2Prog2\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.AssemblyInfoInputs.cache
+C:\Users\PCManuYEze\Documents\Obligatorio2Prog2\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.AssemblyInfo.cs
+C:\Users\PCManuYEze\Documents\Obligatorio2Prog2\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.csproj.CoreCompileInputs.cache
+C:\Users\PCManuYEze\Documents\Obligatorio2Prog2\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PCManuYEze\Documents\Obligatorio2Prog2\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.RazorAssemblyInfo.cache
+C:\Users\PCManuYEze\Documents\Obligatorio2Prog2\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.RazorAssemblyInfo.cs
+C:\Users\PCManuYEze\Documents\Obligatorio2Prog2\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.WebAppOB2P2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PCManuYEze\Documents\Obligatorio2Prog2\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.build.WebAppOB2P2.props
+C:\Users\PCManuYEze\Documents\Obligatorio2Prog2\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebAppOB2P2.props
+C:\Users\PCManuYEze\Documents\Obligatorio2Prog2\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebAppOB2P2.props
+C:\Users\PCManuYEze\Documents\Obligatorio2Prog2\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\PCManuYEze\Documents\Obligatorio2Prog2\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\PCManuYEze\Documents\Obligatorio2Prog2\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\PCManuYEze\Documents\Obligatorio2Prog2\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\PCManuYEze\Documents\Obligatorio2Prog2\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\scopedcss\bundle\WebAppOB2P2.styles.css
+C:\Users\PCManuYEze\Documents\Obligatorio2Prog2\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\scopedcss\projectbundle\WebAppOB2P2.bundle.scp.css
+C:\Users\PCManuYEze\Documents\Obligatorio2Prog2\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.dll
+C:\Users\PCManuYEze\Documents\Obligatorio2Prog2\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\refint\WebAppOB2P2.dll
+C:\Users\PCManuYEze\Documents\Obligatorio2Prog2\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.pdb
+C:\Users\PCManuYEze\Documents\Obligatorio2Prog2\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.genruntimeconfig.cache
+C:\Users\PCManuYEze\Documents\Obligatorio2Prog2\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\ref\WebAppOB2P2.dll
+C:\Users\PCManuYEze\Documents\Programacion2 Obligatorio2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\PCManuYEze\Documents\Programacion2 Obligatorio2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\appsettings.json
+C:\Users\PCManuYEze\Documents\Programacion2 Obligatorio2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.deps.json
+C:\Users\PCManuYEze\Documents\Programacion2 Obligatorio2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.runtimeconfig.json
+C:\Users\PCManuYEze\Documents\Programacion2 Obligatorio2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.exe
+C:\Users\PCManuYEze\Documents\Programacion2 Obligatorio2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\WebAppOB2P2.staticwebassets.runtime.json
+C:\Users\PCManuYEze\Documents\Programacion2 Obligatorio2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\WebAppOB2P2.exe
+C:\Users\PCManuYEze\Documents\Programacion2 Obligatorio2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\WebAppOB2P2.deps.json
+C:\Users\PCManuYEze\Documents\Programacion2 Obligatorio2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\WebAppOB2P2.runtimeconfig.json
+C:\Users\PCManuYEze\Documents\Programacion2 Obligatorio2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\WebAppOB2P2.dll
+C:\Users\PCManuYEze\Documents\Programacion2 Obligatorio2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\WebAppOB2P2.pdb
+C:\Users\PCManuYEze\Documents\Programacion2 Obligatorio2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.dll
+C:\Users\PCManuYEze\Documents\Programacion2 Obligatorio2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.pdb
+C:\Users\PCManuYEze\Documents\Programacion2 Obligatorio2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.csproj.AssemblyReference.cache
+C:\Users\PCManuYEze\Documents\Programacion2 Obligatorio2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PCManuYEze\Documents\Programacion2 Obligatorio2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.AssemblyInfoInputs.cache
+C:\Users\PCManuYEze\Documents\Programacion2 Obligatorio2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.AssemblyInfo.cs
+C:\Users\PCManuYEze\Documents\Programacion2 Obligatorio2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.csproj.CoreCompileInputs.cache
+C:\Users\PCManuYEze\Documents\Programacion2 Obligatorio2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PCManuYEze\Documents\Programacion2 Obligatorio2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.RazorAssemblyInfo.cache
+C:\Users\PCManuYEze\Documents\Programacion2 Obligatorio2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.RazorAssemblyInfo.cs
+C:\Users\PCManuYEze\Documents\Programacion2 Obligatorio2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.WebAppOB2P2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PCManuYEze\Documents\Programacion2 Obligatorio2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.build.WebAppOB2P2.props
+C:\Users\PCManuYEze\Documents\Programacion2 Obligatorio2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebAppOB2P2.props
+C:\Users\PCManuYEze\Documents\Programacion2 Obligatorio2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebAppOB2P2.props
+C:\Users\PCManuYEze\Documents\Programacion2 Obligatorio2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\PCManuYEze\Documents\Programacion2 Obligatorio2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\PCManuYEze\Documents\Programacion2 Obligatorio2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\PCManuYEze\Documents\Programacion2 Obligatorio2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\PCManuYEze\Documents\Programacion2 Obligatorio2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\scopedcss\bundle\WebAppOB2P2.styles.css
+C:\Users\PCManuYEze\Documents\Programacion2 Obligatorio2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\scopedcss\projectbundle\WebAppOB2P2.bundle.scp.css
+C:\Users\PCManuYEze\Documents\Programacion2 Obligatorio2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.csproj.CopyComplete
+C:\Users\PCManuYEze\Documents\Programacion2 Obligatorio2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.dll
+C:\Users\PCManuYEze\Documents\Programacion2 Obligatorio2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\refint\WebAppOB2P2.dll
+C:\Users\PCManuYEze\Documents\Programacion2 Obligatorio2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.pdb
+C:\Users\PCManuYEze\Documents\Programacion2 Obligatorio2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.genruntimeconfig.cache
+C:\Users\PCManuYEze\Documents\Programacion2 Obligatorio2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\ref\WebAppOB2P2.dll
+C:\Users\PCManuYEze\Documents\DOCprog2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\PCManuYEze\Documents\DOCprog2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\appsettings.json
+C:\Users\PCManuYEze\Documents\DOCprog2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.deps.json
+C:\Users\PCManuYEze\Documents\DOCprog2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.runtimeconfig.json
+C:\Users\PCManuYEze\Documents\DOCprog2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.exe
+C:\Users\PCManuYEze\Documents\DOCprog2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\WebAppOB2P2.staticwebassets.runtime.json
+C:\Users\PCManuYEze\Documents\DOCprog2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\WebAppOB2P2.exe
+C:\Users\PCManuYEze\Documents\DOCprog2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\WebAppOB2P2.deps.json
+C:\Users\PCManuYEze\Documents\DOCprog2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\WebAppOB2P2.runtimeconfig.json
+C:\Users\PCManuYEze\Documents\DOCprog2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\WebAppOB2P2.dll
+C:\Users\PCManuYEze\Documents\DOCprog2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\WebAppOB2P2.pdb
+C:\Users\PCManuYEze\Documents\DOCprog2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.dll
+C:\Users\PCManuYEze\Documents\DOCprog2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.pdb
+C:\Users\PCManuYEze\Documents\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.csproj.AssemblyReference.cache
+C:\Users\PCManuYEze\Documents\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PCManuYEze\Documents\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.AssemblyInfoInputs.cache
+C:\Users\PCManuYEze\Documents\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.AssemblyInfo.cs
+C:\Users\PCManuYEze\Documents\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.csproj.CoreCompileInputs.cache
+C:\Users\PCManuYEze\Documents\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PCManuYEze\Documents\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.RazorAssemblyInfo.cache
+C:\Users\PCManuYEze\Documents\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.RazorAssemblyInfo.cs
+C:\Users\PCManuYEze\Documents\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.WebAppOB2P2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PCManuYEze\Documents\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.build.WebAppOB2P2.props
+C:\Users\PCManuYEze\Documents\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebAppOB2P2.props
+C:\Users\PCManuYEze\Documents\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebAppOB2P2.props
+C:\Users\PCManuYEze\Documents\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\PCManuYEze\Documents\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\PCManuYEze\Documents\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\PCManuYEze\Documents\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\PCManuYEze\Documents\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\scopedcss\bundle\WebAppOB2P2.styles.css
+C:\Users\PCManuYEze\Documents\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\scopedcss\projectbundle\WebAppOB2P2.bundle.scp.css
+C:\Users\PCManuYEze\Documents\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.csproj.CopyComplete
+C:\Users\PCManuYEze\Documents\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.dll
+C:\Users\PCManuYEze\Documents\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\refint\WebAppOB2P2.dll
+C:\Users\PCManuYEze\Documents\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.pdb
+C:\Users\PCManuYEze\Documents\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.genruntimeconfig.cache
+C:\Users\PCManuYEze\Documents\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\ref\WebAppOB2P2.dll
+C:\Users\Emanuel\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Emanuel\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\appsettings.json
+C:\Users\Emanuel\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.deps.json
+C:\Users\Emanuel\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.runtimeconfig.json
+C:\Users\Emanuel\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.exe
+C:\Users\Emanuel\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\WebAppOB2P2.staticwebassets.runtime.json
+C:\Users\Emanuel\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\WebAppOB2P2.exe
+C:\Users\Emanuel\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\WebAppOB2P2.deps.json
+C:\Users\Emanuel\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\WebAppOB2P2.runtimeconfig.json
+C:\Users\Emanuel\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\WebAppOB2P2.dll
+C:\Users\Emanuel\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\WebAppOB2P2.pdb
+C:\Users\Emanuel\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.dll
+C:\Users\Emanuel\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.pdb
+C:\Users\Emanuel\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.csproj.AssemblyReference.cache
+C:\Users\Emanuel\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emanuel\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.AssemblyInfoInputs.cache
+C:\Users\Emanuel\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.AssemblyInfo.cs
+C:\Users\Emanuel\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Emanuel\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.RazorAssemblyInfo.cache
+C:\Users\Emanuel\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.RazorAssemblyInfo.cs
+C:\Users\Emanuel\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.WebAppOB2P2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Emanuel\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.build.WebAppOB2P2.props
+C:\Users\Emanuel\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebAppOB2P2.props
+C:\Users\Emanuel\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebAppOB2P2.props
+C:\Users\Emanuel\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Emanuel\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Emanuel\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Emanuel\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Emanuel\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\scopedcss\bundle\WebAppOB2P2.styles.css
+C:\Users\Emanuel\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\scopedcss\projectbundle\WebAppOB2P2.bundle.scp.css
+C:\Users\Emanuel\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.csproj.CopyComplete
+C:\Users\Emanuel\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.dll
+C:\Users\Emanuel\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\refint\WebAppOB2P2.dll
+C:\Users\Emanuel\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.pdb
+C:\Users\Emanuel\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.genruntimeconfig.cache
+C:\Users\Emanuel\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\ref\WebAppOB2P2.dll
+C:\Users\PCManuYEze\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\PCManuYEze\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\appsettings.json
+C:\Users\PCManuYEze\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.deps.json
+C:\Users\PCManuYEze\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.runtimeconfig.json
+C:\Users\PCManuYEze\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.exe
+C:\Users\PCManuYEze\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\WebAppOB2P2.staticwebassets.runtime.json
+C:\Users\PCManuYEze\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\WebAppOB2P2.exe
+C:\Users\PCManuYEze\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\WebAppOB2P2.deps.json
+C:\Users\PCManuYEze\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\WebAppOB2P2.runtimeconfig.json
+C:\Users\PCManuYEze\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\WebAppOB2P2.dll
+C:\Users\PCManuYEze\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\WebAppOB2P2.pdb
+C:\Users\PCManuYEze\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.dll
+C:\Users\PCManuYEze\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.pdb
+C:\Users\PCManuYEze\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.csproj.AssemblyReference.cache
+C:\Users\PCManuYEze\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PCManuYEze\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.AssemblyInfoInputs.cache
+C:\Users\PCManuYEze\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.AssemblyInfo.cs
+C:\Users\PCManuYEze\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.csproj.CoreCompileInputs.cache
+C:\Users\PCManuYEze\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PCManuYEze\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.RazorAssemblyInfo.cache
+C:\Users\PCManuYEze\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.RazorAssemblyInfo.cs
+C:\Users\PCManuYEze\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.WebAppOB2P2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PCManuYEze\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.build.WebAppOB2P2.props
+C:\Users\PCManuYEze\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebAppOB2P2.props
+C:\Users\PCManuYEze\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebAppOB2P2.props
+C:\Users\PCManuYEze\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\PCManuYEze\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\PCManuYEze\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\PCManuYEze\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\PCManuYEze\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\scopedcss\bundle\WebAppOB2P2.styles.css
+C:\Users\PCManuYEze\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\scopedcss\projectbundle\WebAppOB2P2.bundle.scp.css
+C:\Users\PCManuYEze\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.csproj.CopyComplete
+C:\Users\PCManuYEze\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.dll
+C:\Users\PCManuYEze\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\refint\WebAppOB2P2.dll
+C:\Users\PCManuYEze\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.pdb
+C:\Users\PCManuYEze\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.genruntimeconfig.cache
+C:\Users\PCManuYEze\Desktop\DOCprog2\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\ref\WebAppOB2P2.dll
+C:\Users\PCManuYEze\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\PCManuYEze\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\appsettings.json
+C:\Users\PCManuYEze\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.deps.json
+C:\Users\PCManuYEze\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.runtimeconfig.json
+C:\Users\PCManuYEze\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.exe
+C:\Users\PCManuYEze\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\WebAppOB2P2.staticwebassets.runtime.json
+C:\Users\PCManuYEze\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\WebAppOB2P2.exe
+C:\Users\PCManuYEze\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\WebAppOB2P2.deps.json
+C:\Users\PCManuYEze\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\WebAppOB2P2.runtimeconfig.json
+C:\Users\PCManuYEze\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\WebAppOB2P2.dll
+C:\Users\PCManuYEze\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\WebAppOB2P2.pdb
+C:\Users\PCManuYEze\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.dll
+C:\Users\PCManuYEze\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.pdb
+C:\Users\PCManuYEze\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.csproj.AssemblyReference.cache
+C:\Users\PCManuYEze\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PCManuYEze\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.AssemblyInfoInputs.cache
+C:\Users\PCManuYEze\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.AssemblyInfo.cs
+C:\Users\PCManuYEze\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.csproj.CoreCompileInputs.cache
+C:\Users\PCManuYEze\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PCManuYEze\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.RazorAssemblyInfo.cache
+C:\Users\PCManuYEze\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.RazorAssemblyInfo.cs
+C:\Users\PCManuYEze\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.WebAppOB2P2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PCManuYEze\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.build.WebAppOB2P2.props
+C:\Users\PCManuYEze\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebAppOB2P2.props
+C:\Users\PCManuYEze\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebAppOB2P2.props
+C:\Users\PCManuYEze\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\PCManuYEze\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\PCManuYEze\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\PCManuYEze\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\PCManuYEze\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\scopedcss\bundle\WebAppOB2P2.styles.css
+C:\Users\PCManuYEze\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\scopedcss\projectbundle\WebAppOB2P2.bundle.scp.css
+C:\Users\PCManuYEze\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.csproj.CopyComplete
+C:\Users\PCManuYEze\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.dll
+C:\Users\PCManuYEze\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\refint\WebAppOB2P2.dll
+C:\Users\PCManuYEze\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.pdb
+C:\Users\PCManuYEze\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.genruntimeconfig.cache
+C:\Users\PCManuYEze\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\ref\WebAppOB2P2.dll
+C:\Users\alumnoFI\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\alumnoFI\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\appsettings.json
+C:\Users\alumnoFI\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.deps.json
+C:\Users\alumnoFI\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.runtimeconfig.json
+C:\Users\alumnoFI\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.exe
+C:\Users\alumnoFI\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\WebAppOB2P2.staticwebassets.runtime.json
+C:\Users\alumnoFI\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\WebAppOB2P2.exe
+C:\Users\alumnoFI\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\WebAppOB2P2.deps.json
+C:\Users\alumnoFI\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\WebAppOB2P2.runtimeconfig.json
+C:\Users\alumnoFI\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\WebAppOB2P2.dll
+C:\Users\alumnoFI\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\WebAppOB2P2.pdb
+C:\Users\alumnoFI\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.dll
+C:\Users\alumnoFI\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\bin\Debug\net7.0\Social.NetWork.pdb
+C:\Users\alumnoFI\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.csproj.AssemblyReference.cache
+C:\Users\alumnoFI\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumnoFI\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.AssemblyInfoInputs.cache
+C:\Users\alumnoFI\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.AssemblyInfo.cs
+C:\Users\alumnoFI\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alumnoFI\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.RazorAssemblyInfo.cache
+C:\Users\alumnoFI\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.RazorAssemblyInfo.cs
+C:\Users\alumnoFI\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.WebAppOB2P2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alumnoFI\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.build.WebAppOB2P2.props
+C:\Users\alumnoFI\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebAppOB2P2.props
+C:\Users\alumnoFI\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebAppOB2P2.props
+C:\Users\alumnoFI\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\alumnoFI\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\alumnoFI\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\alumnoFI\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\alumnoFI\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\scopedcss\bundle\WebAppOB2P2.styles.css
+C:\Users\alumnoFI\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\scopedcss\projectbundle\WebAppOB2P2.bundle.scp.css
+C:\Users\alumnoFI\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.csproj.CopyComplete
+C:\Users\alumnoFI\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.dll
+C:\Users\alumnoFI\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\refint\WebAppOB2P2.dll
+C:\Users\alumnoFI\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.pdb
+C:\Users\alumnoFI\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.genruntimeconfig.cache
+C:\Users\alumnoFI\Desktop\MaterialParaClaseMartes14\Obligatorio2MVC\WebAppOB2P2\obj\Debug\net7.0\ref\WebAppOB2P2.dll
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\bin\Debug\net7.0\appsettings.Development.json
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\bin\Debug\net7.0\appsettings.json
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\bin\Debug\net7.0\WebAppOB2P2.staticwebassets.runtime.json
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\bin\Debug\net7.0\WebAppOB2P2.exe
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\bin\Debug\net7.0\WebAppOB2P2.deps.json
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\bin\Debug\net7.0\WebAppOB2P2.runtimeconfig.json
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\bin\Debug\net7.0\WebAppOB2P2.dll
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\bin\Debug\net7.0\WebAppOB2P2.pdb
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\bin\Debug\net7.0\Dominio.dll
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\bin\Debug\net7.0\Dominio.pdb
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.csproj.AssemblyReference.cache
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.GeneratedMSBuildEditorConfig.editorconfig
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.AssemblyInfoInputs.cache
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.AssemblyInfo.cs
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.csproj.CoreCompileInputs.cache
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.MvcApplicationPartsAssemblyInfo.cache
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.RazorAssemblyInfo.cache
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.RazorAssemblyInfo.cs
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.WebAppOB2P2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.build.WebAppOB2P2.props
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebAppOB2P2.props
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebAppOB2P2.props
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\staticwebassets.build.json
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\staticwebassets.development.json
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\scopedcss\bundle\WebAppOB2P2.styles.css
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\scopedcss\projectbundle\WebAppOB2P2.bundle.scp.css
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.csproj.CopyComplete
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.dll
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\refint\WebAppOB2P2.dll
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.pdb
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\WebAppOB2P2.genruntimeconfig.cache
+C:\ORT\Programacion 2\obligatorio\WebAppOB2P2\WebAppOB2P2\obj\Debug\net7.0\ref\WebAppOB2P2.dll

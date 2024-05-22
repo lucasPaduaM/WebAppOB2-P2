@@ -1,0 +1,48 @@
+﻿@using Social.NetWork.Dominio;
+@model IEnumerable<Publicacion>;
+@if (!String.IsNullOrEmpty(ViewBag.Mensaje))
+{
+    <div class="alert alert-danger">
+        @ViewBag.Mensaje
+    </div>
+}
+
+<h1 id="h1Publicaciones">Publicaciones encontradas: </h1>
+@foreach (Publicacion publicacion in Model)
+{
+    string autorPost = publicacion.autor.nombre;
+    string contenido = publicacion.GetContenido();
+    string titulo = publicacion.GetTitulo();
+    string fechaPublicacion = publicacion.fecha.ToString("yyyy-MM-dd HH:mm:ss");
+    if (publicacion.GetType() == typeof(Post))
+    {
+        <h1>
+            Post
+        </h1>
+        <div class="card mb-4" style="max-width: 500px; height: auto;">
+            <div class="card-body">
+                <h5 class="card-title" style="text-align: center;">Titulo: @titulo</h5>
+                <p class="card-text">Contenido: @contenido</p>
+                <p class="card-text"><small class="text-muted">Fecha publicacion: @fechaPublicacion</small></p>
+                <p class="card-text"><small class="text-muted">Autor post: @autorPost</small></p>
+                <p class="card-text"><small class="text-muted">Valor de aceptacion: @publicacion.valorDeAceptacion</small></p>
+            </div>
+        </div>
+    }
+    else
+    {
+        <h1>
+            Comentario
+        </h1>
+        <div class="card mb-4" style="max-width: 500px; height: auto;">
+            <div class="card-body">
+                <br>
+                <h5 class="card-text">Autor comentario: @autorPost</h5>
+                <h5 class="card-text">Titulo comentario: @titulo</h5>
+                <p class="card-text"><small class="text-muted">Fecha comentario: @fechaPublicacion</small></p>
+                <p class="card-text">Comentario: @contenido</p>
+                <hr>
+            </div>
+        </div>
+    }
+}

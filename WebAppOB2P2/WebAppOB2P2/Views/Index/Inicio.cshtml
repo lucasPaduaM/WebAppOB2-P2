@@ -1,0 +1,27 @@
+﻿@using Social.NetWork.Dominio;
+@model IEnumerable<Usuario>;
+@if (!String.IsNullOrEmpty(ViewBag.Mensaje))
+{
+    <div class="alert alert-danger">
+        @ViewBag.Mensaje
+    </div>
+}
+
+<h1>Sesión Actual: @Context.Session.GetString("usuarioLogueado")</h1>
+<table class="table">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col">Usuarios</th>
+        </tr>
+    </thead>
+    @foreach (Usuario usuario in Model)
+    {
+        if (usuario.GetType().ToString().Contains("Miembro"))
+        {
+            string usuarioEmail = usuario.GetEmail();
+            <tr>
+                <td>@usuarioEmail</td>
+            </tr>
+        }
+    }
+</table>

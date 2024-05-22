@@ -1,0 +1,35 @@
+﻿@using Social.NetWork.Dominio
+@model IEnumerable<Miembro>;
+
+
+<table class="table">
+    <thead class="thead-dark">
+    </thead>
+
+    <h1>Lista de amigos</h1>
+    <p>@Context.Session.GetString("usuarioLogueado"), Aqui puedes ver a los usuarios que pertenecen a tu lista de amigos!</p>
+
+    @foreach (Miembro miembro in Model)
+    {
+        string emailAmigo = miembro.Email;
+        string nombreAmigo = miembro.nombre;
+        string apellidoAmigo = miembro.apellido;
+
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th scope="col">Email</th>
+                    <th scope="col">Nombre</th>
+                    <th scope="col">Apellido</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>@emailAmigo</td>
+                    <td>@nombreAmigo</td>
+                    <td>@apellidoAmigo</td>
+                </tr>
+            </tbody>
+        </table>
+    }
+</table>
